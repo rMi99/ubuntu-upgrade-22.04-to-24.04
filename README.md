@@ -8,7 +8,7 @@ This bash script automates the process of upgrading Ubuntu from version 22.04 to
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ubuntu-upgrade-backup.git```
+   git clone https://github.com/yourusername/ubuntu-upgrade-22.04-to-24.04.git
 
  ```chmod +x upgrade.sh```
 
@@ -16,3 +16,5 @@ This bash script automates the process of upgrading Ubuntu from version 22.04 to
 
 
  (`---`)  (`🚀`)  "Enjoy in New Ubuntu"
+
+rMi99
